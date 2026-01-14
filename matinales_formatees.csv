@@ -1,0 +1,622 @@
+date_newsletter,heure,chaine,nom_invite,intitule_invite
+2026-01-06,7h20,RFI,Paul Confavreux,porte-parole du ministère des Affaires étrangères
+2026-01-06,7h35,TF1,Arnaud Rousseau,président de la FNSEA
+2026-01-06,7h40,RTL,Xavier Bertrand,président LR du conseil régional des Hauts-de-France
+2026-01-06,7h40,RMC,François Durovray,président du conseil départemental de l’Essonne
+2026-01-06,7h40,Franceinfo,Jérôme Guedj,député PS de l’Essonne
+2026-01-06,7h50,France Inter,Sophie Adenot,ingénieure et astronaute française
+2026-01-06,8h10,Europe 1/CNEWS,Jean-Philippe Tanguy,député RN de la Somme
+2026-01-06,8h10,France 2,Fabien Roussel,premier secrétaire du PCF
+2026-01-06,8h15,Radio Classique,Bruno Tertrais,directeur adjoint de la Fondation pour la recherche stratégique
+2026-01-06,8h15,Sud Radio,Philippe Juvin,"député LR des Hauts-de-Seine, rapporteur général du budget à l’Assemblée"
+2026-01-06,8h20,France Inter,Dominique de Villepin,ancien Premier ministre
+2026-01-06,8h30,Franceinfo,François Hollande,"ancien président de la République, député PS de Corrèze"
+2026-01-06,8h30,BFMTV/RMC,Mathilde Panot,présidente du groupe LFI à l’Assemblée
+2026-01-05,7h40,TF1,Pascal Confavreux,porte-parole du Quai d’Orsay
+2026-01-05,7h40,RTL,Manuel Bompard,coordinateur de La France insoumise
+2026-01-05,7h40,RMC,Jérôme Marty,médecin généraliste et président de l’UFML (l’Union française pour une médecine libre)
+2026-01-05,7h50,France Inter,Frédérique Kaba,"dirigeante pendant près de 17 ans au sein du Mouvement Emmaüs, autrice de l’essai Silence sacré : pourquoi nous nous sommes tus ?"
+2026-01-05,8h10,Europe 1/CNEWS,Aurore Bergé,ministre chargée de l’Egalité entre les femmes et les hommes et de la Lutte contre les discriminations
+2026-01-05,8h10,France 2,Stéphanie Rist,ministre de la Santé
+2026-01-05,8h15,BFM Business,Mathieu Plane,directeur adjoint du département analyse et prévision de l’OFCE
+2026-01-05,8h15,Sud Radio,Pierre de Villiers,ancien chef d’état-major des Armées
+2026-01-05,8h20,France Inter,Christine Ockrent,journaliste
+2026-01-05,8h20,France Inter,Gilles Gressani,directeur du Grand Continent
+2026-01-05,8h20,France Inter,Sylvie Kauffmann,éditorialiste au Monde
+2026-01-05,8h30,Franceinfo,Melissa Bell,correspondante de CNN à Paris
+2026-01-05,8h30,Franceinfo,Bruno Tertrais,politologue
+2026-01-05,8h30,BFMTV/RMC,Maud Bregeon,porte-parole du gouvernement
+2025-12-24,7h20,RFI,Guy Savoy,chef cuisinier
+2025-12-24,7h40,RTL,Sébastien Chenu,vice-président du RN et député du Nord
+2025-12-24,7h40,RMC,Stéphane Galais,porte-parole de la Confédération paysanne
+2025-12-24,7h45,Franceinfo,Aleksandar Nikolic,député européen RN
+2025-12-24,7h45,Radio J,Gilles Finchelstein,"secrétaire général de la Fondation Jean-Jaurès, auteur de La démocratie à l’état gazeux (Flammarion)"
+2025-12-24,7h50,France Inter,Karl Paquette,danseur étoile et chorégraphe pour Mon premier ballet : La Belle au bois dormant au Théâtre Mogador
+2025-12-24,8h10,Europe 1/CNEWS,Karl Olive,député EPR des Yvelines
+2025-12-24,8h15,Radio Classique,Maurice Lévy,président d’honneur de Publicis Groupe
+2025-12-24,8h15,Sud Radio,Ian Brossat,sénateur de Paris et coprésident du groupe communiste au Conseil de Paris
+2025-12-24,8h20,France Inter,Daniel Fiévet,"journaliste et producteur à France Inter, auteur de In extremis. Histoires de survie (Julliard)"
+2025-12-24,8h30,Franceinfo,Thierry Marx,chef étoilé et président de l’Umih
+2025-12-24,8h30,BFMTV/RMC,Jean-Philippe Tanguy,député RN de la Somme
+2025-12-23,7h20,RFI,Nicolas Dufourcq,directeur général de Bpifrance
+2025-12-23,7h40,TF1,Prisca Thevenot,députée EPR des Hauts-de-Seine
+2025-12-23,7h40,RTL,Philippe Tabarot,ministre des Transports
+2025-12-23,7h40,RMC,Alexis Voisenet,chef étoilé du restaurant “Maison Avoise” à Issy-les-Moulineaux
+2025-12-23,7h45,Franceinfo,Xavier Iacovelli,sénateur RDPI des Hauts-de-Seine
+2025-12-23,7h45,Radio J,Georges-Marc Benamou,"journaliste, écrivain et producteur, pour son livre Dans le secret de Mitterrand (Plon)"
+2025-12-23,7h50,France Inter,Ian Brossat,sénateur de Paris et coprésident du groupe communiste au Conseil de Paris
+2025-12-23,8h10,Europe 1/CNEWS,Eric Coquerel,député LFI de Seine-Saint-Denis et président de la commission des Finances
+2025-12-23,8h10,France 2,Laurent Panifous,ministre délégué chargé des Relations avec le Parlement
+2025-12-23,8h15,Sud Radio,Marc Fesneau,député du Loir-et-Cher et président du groupe Démocrates
+2025-12-23,8h20,France Inter,Adélaïde de Clermont-Tonnerre,"autrice, Alexandre de la Patellière, réalisateur et scénariste, et Jean-Christophe Rufin, écrivain et académicien"
+2025-12-23,8h30,Franceinfo,Sébastien Chenu,député RN du Nord et vice-président de l’Assemblée nationale
+2025-12-23,8h30,BFMTV/RMC,Roland Lescure,ministre de l’Economie et des Finances
+2025-12-22,7h15,France 2,Alain Fontaine,président de l’association française des maîtres restaurateurs
+2025-12-22,7h40,TF1,Marc Fesneau,président du groupe du MoDem à l’Assemblée nationale
+2025-12-22,7h40,RTL,Eric Coquerel,député LFI de Seine-Saint-Denis et président de la commission des Finances de l’Assemblée nationale
+2025-12-22,7h40,RMC,Fabrice Rizzoli,"docteur en science politique et spécialiste du narcotrafic, cofondateur de Crim’HALT"
+2025-12-22,7h45,Radio J,Michaël Darmon,"journaliste, pour son livre Les derniers jours d’Itzhak Rabin (Passés composés)"
+2025-12-22,7h50,France Inter,Joséphine Japy,réalisatrice du film Qui brille au combat
+2025-12-22,8h10,Europe 1/CNEWS,Thierry Breton,"ancien commissaire européen au Marché intérieur, auteur de Les dix renoncements qui ont fait la France (Plon)"
+2025-12-22,8h10,France 2,Nicolas Bay,député européen Identité-Libertés
+2025-12-22,8h15,Sud Radio,Thierry Mariani,député européen et candidat RN à la mairie de Paris
+2025-12-22,8h20,France Inter,Jean-François Colosimo,"historien des religions, théologien orthodoxe et directeur des éditions du Cerf"
+2025-12-22,8h30,Franceinfo,Sylvain Maillard,député EPR de Paris
+2025-12-22,8h30,BFMTV/RMC,Philippe Juvin,"député LR des Hauts-de-Seine, rapporteur général du budget"
+2025-12-19,7h15,France 2,Lyes Louffok,militant pour les droits de l’enfant
+2025-12-19,7h20,RFI,Sandro Gozi,député européen Renew
+2025-12-19,7h30,Public Sénat,Louis Vogel,sénateur Les Indépendants de Seine-et-Marne
+2025-12-19,7h40,TF1,Amélie de Montchalin,ministre de l’Action et des Comptes publics
+2025-12-19,7h40,RTL,Maud Bregeon,porte-parole du gouvernement
+2025-12-19,7h40,RMC,Stéphane Galais,secrétaire national de la Confédération paysanne
+2025-12-19,7h45,Franceinfo,Eric Coquerel,président LFI de la commission des Finances de l’Assemblée nationale
+2025-12-19,8h00,Public Sénat,Manon Aubry,députée européenne LFI
+2025-12-19,8h10,Europe 1/CNEWS,Sylvain Maillard,député EPR de Paris
+2025-12-19,8h10,France 2,Serge Papin,"ministre des Petites et moyennes entreprises, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat"
+2025-12-19,8h15,Radio Classique,François Ecalle,conseiller maître honoraire à la Cour des comptes
+2025-12-19,8h15,Sud Radio,Jean-Philippe Tanguy,député RN de la Somme
+2025-12-19,8h20,France Inter,François Villeroy de Galhau,gouverneur de la Banque de France
+2025-12-19,8h30,Franceinfo,Arnaud Rousseau,président de la FNSEA
+2025-12-19,8h30,BFMTV/RMC,Thierry Breton,ancien commissaire européen
+2025-12-18,7h15,France 2,Martin Untersinger,"journaliste au Monde, spécialisé dans les nouvelles technologies"
+2025-12-18,7h20,RFI,Garret Martin,"professeur à l’American University de Washington, expert en relations internationales"
+2025-12-18,7h30,Public Sénat,Catherine Morin-Desailly,sénatrice UC de la Seine-Maritime
+2025-12-18,7h40,TF1,Manuel Bompard,coordinateur national de LFI
+2025-12-18,7h40,RTL,Emmanuel Grégoire,député PS et candidat à la mairie de Paris
+2025-12-18,7h40,RMC,Pierre-Paul Giannetti,consultant sécurité offensive YesWehack
+2025-12-18,7h45,Franceinfo,Cyrielle Chatelain,présidente du groupe Ecologiste et Social à l’Assemblée nationale
+2025-12-18,7h45,Radio J,Caroline Yadan,députée EPR des Français de l’étranger
+2025-12-18,7h50,France Inter,Laurence des Cars,présidente-directrice du musée du Louvre
+2025-12-18,8h00,Public Sénat,Jean-Philippe Tanguy,député RN de la Somme
+2025-12-18,8h10,Europe 1/CNEWS,Philippe Tabarot,ministre des Transports
+2025-12-18,8h10,France 2,Edouard Geffray,ministre de l’Education nationale
+2025-12-18,8h15,Radio Classique,Patrick Martin,président du Medef
+2025-12-18,8h15,Sud Radio,Alain Di Crescenzo,président de CCI France
+2025-12-18,8h20,France Inter,François-Régis Gaudry,"critique gastronomique, auteur de On va déguster Paris"
+2025-12-18,8h20,France Inter,Chloé Charles,cheffe cuisinière
+2025-12-18,8h20,France Inter,Loïc Bienassis,historien spécialiste de l’alimentation
+2025-12-18,8h30,BFMTV/RMC,Arnaud Rousseau,président de la FNSEA
+2025-12-17,7h15,France 2,Pauline Debrabandère,responsable Plaidoyer et campagnes de Zéro Waste France
+2025-12-17,7h20,RFI,Sébastien Lai,"fils de Jimmy Lai, figure emblématique du mouvement prodémocratie hongkongais et reconnu coupable lundi de sédition et de collusion avec l’étranger"
+2025-12-17,7h30,Public Sénat,Joshua Hochart,sénateur RN du Nord
+2025-12-17,7h40,TF1,Bruno Retailleau,président des Républicains
+2025-12-17,7h40,RTL,Dominique de Villepin,ancien Premier ministre
+2025-12-17,7h40,RMC,Antoine Vermorel-Marques,député LR de la Loire
+2025-12-17,7h45,Radio J,Hervé Marseille,président du groupe UC au Sénat
+2025-12-17,7h50,France Inter,Yaël Braun-Pivet,présidente de l’Assemblée nationale
+2025-12-17,8h00,Public Sénat,Nicolas Forissier,ministre délégué chargé du Commerce extérieur et de l’Attractivité
+2025-12-17,8h10,Europe 1/CNEWS,Laurent Wauquiez,président du groupe DR à l’Assemblée nationale
+2025-12-17,8h10,France 2,Dominique Schelcher,PDG de Coopérative U
+2025-12-17,8h15,Radio Classique,Alain Bentolila,"linguiste, auteur de Demain la Barbarie – Parents et instits même combat"
+2025-12-17,8h15,Sud Radio,Aurélien Pradié,député NI du Lot
+2025-12-17,8h15,RTL,Annie Genevard,ministre de l’Agriculture
+2025-12-17,8h20,France Inter,Arnaud Rousseau,président de la FNSEA
+2025-12-17,8h30,Franceinfo,Laurent Nuñez,ministre de l’Intérieur
+2025-12-17,8h30,BFMTV/RMC,Jean-Pierre Farandou,ministre du Travail et des Solidarités
+2025-12-16,7h15,France 2,David Quint,président du Syndicat national des vétérinaires d’exercice libéral
+2025-12-16,7h20,RFI,Philippe Baptiste,"ministre de l’Enseignement supérieur, de la Recherche et de l’Espace"
+2025-12-16,7h30,Public Sénat,Sonia De la Provôté,sénatrice UC du Calvados
+2025-12-16,7h40,TF1,Thierry Cotillard,président du groupement Mousquetaires
+2025-12-16,7h40,RTL,Eric Chenut,président de la Fédération nationale de la Mutualité française
+2025-12-16,7h40,RMC,Sébastien Saint-Pasteur,rapporteur PS de la commission parlementaire sur la prise en charge de la santé mentale et du handicap à l’Assemblée nationale
+2025-12-16,7h45,Radio J,Sibeth Ndiaye,communicante
+2025-12-16,7h50,France Inter,Benoît Payan,maire de Marseille
+2025-12-16,8h00,Public Sénat,François Patriat,président du groupe RDPI au Sénat
+2025-12-16,8h10,Europe 1/CNEWS,Le général Pierre de Villiers,ancien chef d’Etat-major des Armées et auteur de Pour le succès des armes de la France
+2025-12-16,8h10,France 2,Marc Fesneau,président du groupe MoDem à l’Assemblée Nationale
+2025-12-16,8h15,Radio Classique,Jeanne Brugere Picoux,"professeure honoraire de l’Académie vétérinaire de France, spécialiste de la pathologie du bétail"
+2025-12-16,8h15,Sud Radio,Annie Genevard,ministre de l’Agriculture
+2025-12-16,8h20,France Inter,Michel-Edouard Leclerc,président d’E.Leclerc
+2025-12-16,8h30,Franceinfo,Manuel Bompard,coordinateur national de LFI
+2025-12-16,8h30,BFMTV/RMC,Dominique Schelcher,PDG de Coopérative U
+2025-12-15,7h15,France 2,Plana Radenovic,journaliste police justice RTL
+2025-12-15,7h20,RFI,Rafael Grossi,"directeur général de l’Agence internationale de l’énergie atomique, candidat au poste de secrétaire général de l’ONU"
+2025-12-15,7h30,Public Sénat,Fabien Genet,sénateur LR de la Saône-et-Loire
+2025-12-15,7h40,TF1,Laurent Jacobelli,porte-parole du RN
+2025-12-15,7h40,RMC,Yohann Barbe,porte-parole de la FNSEA
+2025-12-15,7h45,Franceinfo,Philippe Baptiste,ministre de l’Enseignement supérieur de la Recherche et de l’Espace
+2025-12-15,7h45,Radio J,Laurent Baumel,député PS d’Indre-et-Loire
+2025-12-15,7h50,France Inter,Charles Alloncle,"député UDR de l’Hérault, rapporteur de la commission d’enquête sur l’audiovisuel public"
+2025-12-15,8h00,Public Sénat,Jean-Louis Bourlanges,ancien député MoDem des Hauts-de-Seine
+2025-12-15,8h10,Europe 1/CNEWS,Amélie de Montchalin,ministre chargée des Comptes publics
+2025-12-15,8h10,France 2,Annie Genevard,ministre de l’Agriculture
+2025-12-15,8h15,Radio Classique,Dominique Reynié,directeur général du think tank “Fondation pour l’innovation politique”
+2025-12-15,8h15,Sud Radio,David Amiel,ministre délégué chargé de la Fonction publique
+2025-12-15,8h20,France Inter,Valérie Pécresse,présidente LR de la région Ile-de-France
+2025-12-15,8h30,Franceinfo,Alma Dufour,députée LFI de Seine-Maritime
+2025-12-15,8h30,BFMTV/RMC,Marion Maréchal,présidente d’Identité-Libertés
+2025-12-12,7h15,France 2,Anne-Claude Crémieux,infectiologue
+2025-12-12,7h20,RFI,Laurent Fabius,président du cercle des présidences de COP
+2025-12-12,7h30,Public Sénat,Else Joseph,sénatrice LR des Ardennes
+2025-12-12,7h40,TF1,Sébastien Martin,ministre de l’Industrie
+2025-12-12,7h40,RTL,Laurent Nuñez,ministre de l’Intérieur
+2025-12-12,7h40,RMC,Théophile Dufresne,cofondateur d’Illogic Studio
+2025-12-12,7h45,Franceinfo,Delphine Batho,présidente de Génération Ecologie
+2025-12-12,8h00,Public Sénat,Nicolas Roussellier,"historien, enseignant à Sciences Po et Polytechnique"
+2025-12-12,8h10,Europe 1/CNEWS,Serge Papin,ministre du Commerce et des PME
+2025-12-12,8h10,France 2,Prisca Thevenot,députée EPR des Hauts-de-Seine
+2025-12-12,8h15,Radio Classique,Zhang Zhang,"violoniste, fondatrice de l’association philanthropique Zhangomusiq, auteure de La Voie de L’Archet"
+2025-12-12,8h15,Sud Radio,Arnaud de Saint Rémy,avocat en charge des droits des enfants au Conseil national des barreaux
+2025-12-12,8h20,France Inter,Nathalie Loiseau,députée européenne Horizons
+2025-12-12,8h30,Franceinfo,Laurence Tubiana,ambassadrice de la France pour les négociations de la COP21 en 2015
+2025-12-12,8h30,BFMTV/RMC,Gérald Darmanin,ministre de la Justice
+2025-12-11,7h15,France 2,Plana Radenovic,journaliste police justice chez RTL
+2025-12-11,7h20,RFI,John Crickx,porte-parole de l’Unicef
+2025-12-11,7h30,Public Sénat,Cédric Perrin,président LR de la commission des Affaires étrangères et de la Défense au Sénat
+2025-12-11,7h40,TF1,Xavier Chardon,directeur général de Citroën
+2025-12-11,7h40,RTL,Robert Ménard,maire divers droite de Béziers
+2025-12-11,7h40,RMC,Etienne Blanc,rapporteur LR de la commission d’enquête au Sénat sur le narcotrafic en 2024
+2025-12-11,7h45,Franceinfo,Florence Mosalini Portelli,vice-présidente des Républicains
+2025-12-11,7h45,Radio J,Frédéric Dabi,directeur général de l’IFOP
+2025-12-11,7h50,France Inter,Sigourney Weaver,actrice
+2025-12-11,8h00,Public Sénat,Laurent Fabius,ancien président du Conseil constitutionnel
+2025-12-11,8h10,Europe 1/CNEWS,Henri Guaino,ancien conseiller de Nicolas Sarkozy
+2025-12-11,8h10,France 2,Eric Coquerel,président LFI de la commission des Finances à l’Assemblée nationale
+2025-12-11,8h15,Radio Classique,Thierry Martel,directeur général de Groupama Assurances Mutuelles
+2025-12-11,8h15,Sud Radio,Ségolène Royal,ancienne ministre
+2025-12-11,8h30,Franceinfo,Thierry Cotillard,président du Groupement Mousquetaires
+2025-12-11,8h30,BFMTV/RMC,Général Pierre De Villiers,ancien chef d’état-major des arm
+2025-12-10,7h10,RMC,Lyes Louffok,militant pour les droits de l’enfant
+2025-12-10,7h15,France 2,Philippe Jost,président de l’établissement chargé de la restauration de la cathédrale Notre-Dame de Paris
+2025-12-10,7h20,RFI,Sanna Marin,ancienne Première ministre de Finlande
+2025-12-10,7h30,Public Sénat,Ian Brossat,sénateur PCF et candidat à la mairie de Paris
+2025-12-10,7h40,TF1,Jean-Philippe Tanguy,député RN de la Somme
+2025-12-10,7h40,RTL,Roland Lescure,ministre de l’Economie et des Finances
+2025-12-10,7h40,RMC,Claire Hédon,Défenseure des droits
+2025-12-10,7h45,Franceinfo,Laurent Panifous,ministre délégué chargé des Relations avec le Parlement
+2025-12-10,7h45,Radio J,Shannon Seban,conseillère municipale Renaissance de Rosny-sous-Bois
+2025-12-10,7h50,France Inter,Manuel Bompard,coordinateur de LFI
+2025-12-10,8h00,Public Sénat,Marine Tondelier,secrétaire nationale des Ecologistes
+2025-12-10,8h10,Europe 1/CNEWS,François Villeroy de Galhau,gouverneur de la Banque de France
+2025-12-10,8h10,France 2,Maud Bregeon,porte-parole du gouvernement
+2025-12-10,8h15,Radio Classique,Jean-Claude Kaufmann,"sociologue, essayiste"
+2025-12-10,8h15,Sud Radio,Serge Papin,"ministre des Petites et Moyennes entreprises, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat"
+2025-12-10,8h20,France Inter,Guillaume Faury,PDG d’Airbus
+2025-12-10,8h30,Franceinfo,Yaël Braun-Pivet,présidente EPR de l’Assemblée nationale
+2025-12-10,8h30,BFMTV/RMC,Sébastien Chenu,député RN du Nord
+2025-12-09,7h15,France 2,Soazig Quéméner,rédactrice en chef de la Tribune dimanche
+2025-12-09,7h20,RFI,Christine Neau-Leduc,présidente de l’université Paris 1 Panthéon-Sorbonne
+2025-12-09,7h30,Public Sénat,Philippe Paul,sénateur LR du Finistère
+2025-12-09,7h40,TF1,Christian Estrosi,maire Horizons de Nice
+2025-12-09,7h40,RTL,François Hollande,ancien président de la République et député PS de Corrèze
+2025-12-09,7h40,RMC,Cyrielle Châtelain,présidente du groupe Ecologiste et Social à l’Assemblée nationale
+2025-12-09,7h45,Franceinfo,Sébastien Chenu,député RN du Nord
+2025-12-09,7h45,Radio J,Aurore Bergé,ministre déléguée chargée de l’Egalité entre les femmes et les hommes et de la Lutte contre les discriminations
+2025-12-09,7h50,France Inter,Jean-Pierre Farandou,ministre du Travail et des Solidarités
+2025-12-09,8h00,Public Sénat,Clément Beaune,haut-commissaire à la Stratégie et au Plan
+2025-12-09,8h10,Europe 1/CNEWS,Charles de Courson,député LIOT de la Marne
+2025-12-09,8h10,France 2,Bruno Retailleau,président des Républicains
+2025-12-09,8h10,Franceinfo,Stéphanie Rist,"ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées"
+2025-12-09,8h15,Radio Classique,Patrick Artus,professeur d’économie à l’Université Paris 1 Panthéon-Sorbonne
+2025-12-09,8h15,Sud Radio,Jérôme Guedj,député PS de l’Essonne
+2025-12-09,8h20,France Inter,Thomas Piketty,"économiste, co-coordinateur du “Rapport sur les inégalités mondiales” et co-auteur de Ce que l’égalité veut dire"
+2025-12-09,8h30,Franceinfo,Marylise Léon,secrétaire générale de la CFDT
+2025-12-09,8h30,BFMTV/RMC,Amélie de Montchalin,ministre des Comptes publics
+2025-12-08,7h15,France 2,Blanche Leridon,directrice éditoriale de l’Institut Montaigne et spécialiste des questions démocratiques et institutionnelles
+2025-12-08,7h20,RFI,Rasha Rizk,"chanteuse lyrique, auteure et compositrice syrienne"
+2025-12-08,7h30,Public Sénat,Olivier Paccaud,sénateur LR de l’Oise
+2025-12-08,7h40,TF1,Michel Barnier,député LR de Paris
+2025-12-08,7h40,RTL,Jean-François Rial,PDG du groupe Voyageurs du Monde
+2025-12-08,7h45,Radio J,Francis Szpiner,sénateur LR de Paris
+2025-12-08,7h50,France Inter,Gérard Araud,ancien ambassadeur de France aux Etats-Unis
+2025-12-08,8h00,Public Sénat,Michel-Edouard Leclerc,président du comité stratégique du mouvement E.Leclerc
+2025-12-08,8h10,Europe 1/CNEWS,Thibault de Montbrial,avocat et auteur de France : le choc ou la chute
+2025-12-08,8h10,France 2,Catherine Vautrin,ministre des Armées et des Anciens combattants
+2025-12-08,8h15,Radio Classique,Gad Elmaleh,"humoriste, acteur, réalisateur"
+2025-12-08,8h15,Sud Radio,François-Xavier Bellamy,député européen LR
+2025-12-08,8h20,France Inter,Gabriel Attal,secrétaire général du parti Renaissance
+2025-12-08,8h30,Franceinfo,Dominique de Villepin,ancien Premier ministre
+2025-12-08,8h30,BFMTV/RMC,Olivier Faure,premier secrétaire du PS
+2025-12-05,7h15,France 2,Laure Pallez,directrice associée Mascaret Partners et spécialiste des relations sino-américaines
+2025-12-05,7h30,Public Sénat,Jean Hingray,sénateur UC des Vosges
+2025-12-05,7h40,TF1,Yaël Braun-Pivet,présidente EPR de l’Assemblée nationale
+2025-12-05,7h40,RTL,Gabriel Attal,président du groupe EPR à l’Assemblée nationale
+2025-12-05,7h40,RMC,Arnaud Quémard,directeur général du groupe Sanef
+2025-12-05,7h45,Franceinfo,Pierre-Yves Bournazel,candidat Horizons à la mairie de Paris
+2025-12-05,7h45,Radio J,Marie Lebec,députée EPR des Yvelines
+2025-12-05,7h50,France Inter,Maxime Gleizes,"frère de Christophe, journaliste détenu en Algérie"
+2025-12-05,8h00,Public Sénat,Laurent Jacobelli,porte-parole du RN et député de Moselle
+2025-12-05,8h10,Europe 1/CNEWS,Robert Ménard,maire DVD de Béziers
+2025-12-05,8h10,France 2,Laurent Nuñez,ministre de l’Intérieur
+2025-12-05,8h15,RTL,Boualem Sansal,écrivain franco-algérien
+2025-12-05,8h15,Radio Classique,Raphaël Doan,auteur de Faire de la France une démocratie
+2025-12-05,8h15,Sud Radio,Mathieu Lefèvre,ministre délégué chargé de la Transition écologique
+2025-12-05,8h20,France Inter,Fabrice Luchini,comédien
+2025-12-05,8h30,Franceinfo,Jean-Philippe Tanguy,député RN de la Somme
+2025-12-05,8h30,BFMTV/RMC,Patrick Martin,président du Medef
+2025-12-03,7h15,France 2,Jean-Michel Bertrand,photographe et cinéaste animalier spécialiste du loup
+2025-12-03,7h20,RFI,Louis Gallois,coprésident de La Fabrique de l’industrie
+2025-12-03,7h30,Public Sénat,Emmanuel Capus,sénateur Horizons de Maine-et-Loire
+2025-12-03,7h40,TF1,Laurent Wauquiez,président du groupe DR à l’Assemblée nationale
+2025-12-03,7h40,RTL,Laure Pallez,spécialiste des relations sino-américaines et directrice associée de Mascaret
+2025-12-03,7h40,RMC,David Duhamel,"économiste et enseignant à Science Po Paris, auteur de Un monde sans enfant"
+2025-12-03,7h45,Franceinfo,Cyrielle Chatelain,présidente du groupe Ecologiste à l’Assemblée nationale
+2025-12-03,7h45,Radio J,Patrick Haddad,maire PS de Sarcelles
+2025-12-03,7h50,France Inter,Amélie de Montchalin,ministre de l’Action et des Comptes publics
+2025-12-03,8h00,Public Sénat,Emmanuel Grégoire,député PS de Paris et candidat à la mairie de Paris
+2025-12-03,8h10,Europe 1/CNEWS,Guillaume Kasbarian,député EPR d’Eure-et-Loir
+2025-12-03,8h10,France 2,Eric Ciotti,président de l’UDR
+2025-12-03,8h15,Radio Classique,Maria Melchior,épidémiologiste
+2025-12-03,8h15,Sud Radio,Bruno Retailleau,président des Républicains
+2025-12-03,8h20,France Inter,Christian Sainte,directeur national de la police judiciaire
+2025-12-03,8h20,France Inter,Amine Benyamina,"psychiatre et addictologue, président de la fédération française d’addictologie"
+2025-12-03,8h30,Franceinfo,Xavier Bertrand,président LR du conseil régional des Hauts-de-France
+2025-12-03,8h30,BFMTV/RMC,Maud Bregeon,porte-parole du gouvernement
+2025-12-02,7h15,France 2,Benoît Lucchini,rédacteur en chef du Routard
+2025-12-02,7h20,RFI,Hélène Lam Trong,journaliste et lauréate du prix Albert Londres 2023 pour son reportage “Daesh : les enfants fantômes”
+2025-12-02,7h30,Public Sénat,Olivier Cadic,sénateur UC représentant les Français établis hors de France
+2025-12-02,7h40,TF1,Catherine Vautrin,ministre des Armées et des Anciens combattants
+2025-12-02,7h40,RTL,Louis Aliot,maire RN de Perpignan
+2025-12-02,7h40,RMC,Sébastien Martin,ministre délégué chargé de l’Industrie
+2025-12-02,7h45,Franceinfo,Charlotte Parmentier-Lecocq,ministre déléguée chargée de l’Autonomie et des personnes handicapées
+2025-12-02,7h45,Radio J,Sacha Houlié,député app. PS
+2025-12-02,7h50,France Inter,Richard Malka,"avocat, romancier, essayiste, auteur de Passion antisémite"
+2025-12-02,8h00,Public Sénat,Marc Fesneau,président du groupe Démocrates à l’Assemblée nationale
+2025-12-02,8h10,Europe 1/CNEWS,Nicolas Dupont-Aignan,président de Debout la France et auteur de Où va le pognon ?
+2025-12-02,8h10,France 2,Dominique de Villepin,ancien Premier ministre
+2025-12-02,8h15,Radio Classique,Jean Birnbaum,directeur du “Monde des livres”
+2025-12-02,8h15,RMC,Marine Le Pen,présidente du groupe RN à l’Assemblée nationale
+2025-12-02,8h15,Sud Radio,Cécile Guillou,présidente de Picard Surgelés
+2025-12-02,8h20,France Inter,Sophie Binet,secrétaire générale de la CGT
+2025-12-02,8h30,Franceinfo,Jean-François Bohnert,procureur de la République financier
+2025-12-01,7h15,France 2,Me Fares Aidel Sehili,avocat spécialisé en droit pénal
+2025-12-01,7h20,RFI,Françoise Vanni,"directrice des relations extérieures du Fonds mondial de lutte contre le sida, la tuberculose et le paludisme"
+2025-12-01,7h30,Public Sénat,Florence Blatrix Contat,sénatrice PS de l’Ain
+2025-12-01,7h40,TF1,Valérie Pécresse,présidente LR de la région Ile-de-France
+2025-12-01,7h40,RTL,Serge Papin,"ministre des PME, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat"
+2025-12-01,7h40,RMC,Nicolas Facon,président de l’Institut de liaison des entreprises de consommation
+2025-12-01,7h45,Franceinfo,Julien Odoul,député RN de l’Yonne
+2025-12-01,8h00,Public Sénat,Jean-François Husson,rapporteur général LR de la commission des Finances au Sénat
+2025-12-01,8h10,Europe 1/CNEWS,François-Xavier Bellamy,député européen LR
+2025-12-01,8h10,France 2,Roland Lescure,"ministre de l’Economie, des Finances et de la Souveraineté industrielle, énergétique et numérique"
+2025-12-01,8h15,Radio Classique,Sylvain Tesson,écrivain et essayiste
+2025-12-01,8h20,France Inter,Bernard Guetta,député européen du groupe Renew
+2025-12-01,8h30,Franceinfo,Eric Dupond-Moretti,ancien ministre de la Justice
+2025-12-01,8h30,BFMTV/RMC,Michel-Edouard Leclerc,président du comité stratégique du mouvement E. Leclerc
+2025-11-28,7h15,France 2,Frédéric Ploquin,journaliste spécialiste du grand banditisme
+2025-11-28,7h20,RFI,Charlotte Recoquillon,chercheuse rattachée à l’Institut français de géopolitique
+2025-11-28,7h30,Public Sénat,Claude Raynal,président PS de la commission des Finances du Sénat
+2025-11-28,7h40,TF1,Jérémie Patrier-Leitus,député Horizons du Calvados
+2025-11-28,7h40,RTL,Jean-Pierre Farandou,ministre du Travail et des Solidarités
+2025-11-28,7h40,RMC,Marie-Françoise Fournier,maire SE de Guéret
+2025-11-28,8h00,Public Sénat,Général Vincent Desportes,professeur de stratégie à Sciences Po et HEC
+2025-11-28,8h10,Europe 1/CNEWS,Franz-Olivier Giesbert,journaliste et écrivain
+2025-11-28,8h10,France 2,Michel-Edouard Leclerc,président du comité stratégique des supermarchés E.Leclerc
+2025-11-28,8h15,Radio Classique,Régine Hatchondo,présidente du Centre National du Livre
+2025-11-28,8h20,France Inter,Marc Lazar,"historien et sociologue, professeur émérite au centre d’histoire de Sciences Po"
+2025-11-28,8h30,Franceinfo,Jean-Michel Jacques,député EPR du Morbihan
+2025-11-28,8h30,Franceinfo,Christophe Gomart,député européen LR
+2025-11-28,8h30,BFMTV/RMC,Flavie Rault,secrétaire générale du Syndicat national des directeurs pénitentiaires
+2025-11-27,7h15,France 2,Guillaume Faure,président fondateur de Liberté Watts
+2025-11-27,7h20,RFI,Salomé Zourabichvili,ancienne présidente de la Géorgie
+2025-11-27,7h30,Public Sénat,Monique Lubin,sénatrice PS des Landes
+2025-11-27,7h40,TF1,Sébastien Chenu,député RN du Nord
+2025-11-27,7h40,RTL,Clémence Guetté,députée LFI du Val-de-Marne
+2025-11-27,7h40,RMC,Aurélie Trouvé,députée LFI de Seine-Saint-Denis
+2025-11-27,7h45,Franceinfo,Eric Woerth,député EPR de l’Oise
+2025-11-27,7h45,Radio J,Guillaume Garot,député PS de la Mayenne
+2025-11-27,7h50,France Inter,George Clooney,
+2025-11-27,7h50,France Inter,Adam Sandler,acteurs du film Jay Kellyde Noah Baumbach
+2025-11-27,8h00,Public Sénat,Hervé Marseille,président du groupe UC au Sénat
+2025-11-27,8h10,Europe 1/CNEWS,Sylvain Maillard,député EPR de Paris
+2025-11-27,8h10,France 2,Bernard Cazeneuve,président du mouvement La Convention
+2025-11-27,8h15,Radio Classique,Salomé Zourabichvili,ancienne présidente de la Géorgie
+2025-11-27,8h15,Sud Radio,Eric Coquerel,président LFI de la commission des Finances
+2025-11-27,8h20,France Inter,Pierre Servent,spécialiste des questions de défense et de stratégie militaire
+2025-11-27,8h20,France Inter,Sylvie Kauffmann,"éditorialiste au Monde, spécialiste des questions internationales"
+2025-11-27,8h30,Franceinfo,Mathilde Panot,présidente du groupe LFI à l’Assemblée nationale
+2025-11-27,8h30,BFMTV/RMC,Jean-Yves Le Drian,ancien ministre
+2025-11-26,7h15,France 2,Mireille Weinberg,rédactrice en chef adjointe du magazine Capital
+2025-11-26,7h20,RFI,Claude Blanchemaison,ancien ambassadeur de France en Russie et auteur de Fragments d’un parcours aventureux
+2025-11-26,7h30,Public Sénat,Alain Milon,président par intérim LR de la commission des Affaires sociales au Sénat
+2025-11-26,7h40,TF1,Serge Papin,"ministre des Petites et moyennes entreprises, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat"
+2025-11-26,7h40,RTL,Gérald Darmanin,ministre de la Justice
+2025-11-26,7h40,RMC,Bruno Tertrais,directeur adjoint de la Fondation pour la recherche stratégique
+2025-11-26,7h45,Franceinfo,Anne Le Hénanff,ministre déléguée chargée de l’Intelligence artificielle et du Numérique
+2025-11-26,7h45,Radio J,Patrick Mignola,député MoDem de la Savoie
+2025-11-26,7h50,France Inter,Salomé Zourabichvili,ancienne présidente de la Géorgie
+2025-11-26,8h00,Public Sénat,Johanna Rolland,maire PS de Nantes
+2025-11-26,8h10,Europe 1/CNEWS,Eric Ciotti,président de l’UDR
+2025-11-26,8h10,France 2,Jérémie Patrier-Leitus,président Horizons de la commission d’enquête sur l’audiovisuel public à l’Assemblée nationale
+2025-11-26,8h15,Radio Classique,Renaud Dutreil,ancien ministre
+2025-11-26,8h15,Sud Radio,Maud Bregeon,porte-parole du gouvernement
+2025-11-26,8h20,France Inter,Roland Lescure,ministre de l’Economie et des Finances
+2025-11-26,8h30,Franceinfo,Bruno Retailleau,président des Républicains
+2025-11-26,8h30,BFMTV/RMC,François Hollande,député PS de Corrèze
+2025-11-25,7h15,France 2,Yves Puget,directeur de la rédaction du magazine LSA
+2025-11-25,7h20,RFI,Céline Bardet,"juriste internationale et enquêtrice spécialisée dans les crimes de guerre, fondatrice de l’ONG We are not Weapons of War"
+2025-11-25,7h30,Public Sénat,Brigitte Bourguignon,sénatrice UC du Pas-de-Calais
+2025-11-25,7h35,RTL,Emmanuel Macron,président de la République
+2025-11-25,7h40,TF1,Stéphanie Rist,"ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées"
+2025-11-25,7h40,RMC,Julien Odoul,député de l’Yonne et porte-parole du RN
+2025-11-25,7h45,Franceinfo,Philippe Juvin,rapporteur général LR du budget de l’Assemblée nationale
+2025-11-25,7h45,Radio J,Franck Louvrier,maire LR de La Baule
+2025-11-25,7h50,France Inter,Aya Nakamura,chanteuse
+2025-11-25,8h00,Public Sénat,Amélie de Montchalin,ministre chargée des Comptes publics de France
+2025-11-25,8h10,Europe 1/CNEWS,Jean-Louis Borloo,ancien ministre
+2025-11-25,8h10,France 2,Aurore Bergé,ministre déléguée de l’Égalité entre les femmes et les hommes et de la Lutte contre les discriminations
+2025-11-25,8h15,Radio Classique,Agnès Buzyn,"ancienne ministre de la Santé, auteure de Demain notre santé"
+2025-11-25,8h15,Sud Radio,Agnès Pannier-Runacher,députée EPR du Pas-de-Calais
+2025-11-25,8h20,France Inter,Sébastien Chenu,député RN du Nord
+2025-11-25,8h30,Franceinfo,Olivier Faure,premier secrétaire du PS
+2025-11-25,8h30,BFMTV/RMC,Vincent Jeanbrun,ministre de la Ville et du Logement
+2025-11-24,7h15,France 2,Guillaume Ancel,ancien officier
+2025-11-24,7h20,RFI,Nicolas Forissier,ministre délégué chargé du Commerce extérieur et de l’Attractivité
+2025-11-24,7h30,Public Sénat,Marion Canales,sénatrice PS du Puy-de-Dôme
+2025-11-24,7h40,TF1,Eric Coquerel,président LFI de la commission des Finances à l’Assemblée nationale
+2025-11-24,7h40,RTL,Michel-Edouard Leclerc,président de E. Leclerc
+2025-11-24,7h45,Radio J,François Kalfon,député européen PS
+2025-11-24,7h50,France Inter,Emmanuel Grégoire,"député PS de Paris, candidat à la mairie de Paris"
+2025-11-24,8h00,Public Sénat,Philippe Juvin,rapporteur LR de la commission des Finances à l’Assemblée Nationale
+2025-11-24,8h10,Europe 1/CNEWS,Stéphanie Bonhomme,mère d’Elias tué à la machette
+2025-11-24,8h10,France 2,Amélie de Montchalin,ministre de l’Action et des Comptes publics
+2025-11-24,8h15,Radio Classique,Gérard Araud,ancien ambassadeur de France en Israël
+2025-11-24,8h15,Sud Radio,Franck Allisio,député RN des Bouches-du-Rhône et candidat à la mairie de Marseille
+2025-11-24,8h20,France Inter,Boualem Sansal,"écrivain, de retour en France après un an de détention en Algérie"
+2025-11-24,8h30,Franceinfo,Raphaël Glucksmann,député européen Place Publique
+2025-11-24,8h30,BFMTV/RMC,Manuel Bompard,coordinateur national de La France insoumise
+2025-11-21,7h15,France 2,Boris Manenti,chef du service économie du Nouvel Obs
+2025-11-21,7h20,RFI,Rokia Traoré,chanteuse et autrice du livre Je suis née libre
+2025-11-21,7h30,Public Sénat,Frédérique Gerbaud,sénatrice LR de L’Indre
+2025-11-21,7h40,TF1,Maud Bregeon,porte-parole du gouvernement
+2025-11-21,7h40,RTL,Marguerite,lauréate de la médaille de la région Ile-de-France pour avoir secouru une victime d’une tentative de viol en octobre dans un RER
+2025-11-21,7h40,RMC,Sandrine Allonier,porte-parole de Vousfinancer et de l’Adresse
+2025-11-21,7h45,Franceinfo,Manuel Bompard,coordinateur national de LFI
+2025-11-21,8h00,Public Sénat,Gilles Finchelstein,"secrétaire général de la Fondation Jean Jaurès, auteur de La Démocratie à l’état gazeux : une histoire politique"
+2025-11-21,8h10,Europe 1/CNEWS,Linda Kebbab,secrétaire nationale du syndicat UN1TÉ Police
+2025-11-21,8h10,France 2,Benoît Payan,maire PS de Marseille
+2025-11-21,8h15,Radio Classique,Karine Berger,polytechnicienne
+2025-11-21,8h15,Sud Radio,Clément Beaune,haut-commissaire à la Stratégie et au Plan
+2025-11-21,8h20,France Inter,Roberto Saviano,"écrivain et journaliste italien, auteur de Giovanni Falcone"
+2025-11-21,8h30,Franceinfo,Ugo Bernalicis,député LFI du Nord
+2025-11-21,8h30,BFMTV/RMC,Didier François,journaliste Défense BFMTV
+2025-11-20,7h15,France 2,Emmanuel Chiva,ex-délégué général pour l’armement
+2025-11-20,7h20,RFI,Mohammed Jarrar,maire de la ville palestinienne de Jénine
+2025-11-20,7h30,Public Sénat,Elisabeth Doineau,rapporteure générale UC de la commission des Affaires sociales du Sénat
+2025-11-20,7h40,TF1,Dominique Schelcher,directeur général de Système U
+2025-11-20,7h40,RTL,Amine Benyamina,"psychiatre, président de la Fédération française d’addictologie (FFA)"
+2025-11-20,7h40,RMC,Général Dominique Trinquand,ancien chef de la mission militaire française auprès de l’ONU
+2025-11-20,7h45,Radio J,Michael Delafosse,maire PS de Montpellier
+2025-11-20,7h50,France Inter,David Lisnard,président de l’Association des maires de France
+2025-11-20,8h00,Public Sénat,Eric Piolle,maire Les Ecologistes de Grenoble
+2025-11-20,8h10,Europe 1/CNEWS,Christian Estrosi,maire Horizons de Nice
+2025-11-20,8h10,France 2,Clémentine Autain,députée NFP de Seine Saint-Denis
+2025-11-20,8h15,Radio Classique,Monique Dagnaud,"sociologue, spécialiste des mutations de la jeunesse"
+2025-11-20,8h15,Sud Radio,Louis Aliot,maire RN de Perpignan
+2025-11-20,8h20,France Inter,Annie Genevard,"ministre de l’Agriculture, de l’Agroalimentaire et de la Souveraineté alimentaire"
+2025-11-20,8h30,Franceinfo,Frédéric Ploquin,"journaliste spécialiste du grand banditisme et du narcotrafic et Philippe-Henry Honegger, avocat"
+2025-11-20,8h30,BFMTV/RMC,Amine Kessaci,militant anti-narcotrafic
+2025-11-18,7h15,France 2,Véronique Dejean de la Batie,notaire
+2025-11-18,7h20,RFI,Maya Noël,directrice générale de France Digitale
+2025-11-18,7h30,Public Sénat,Bernard Jomier,sénateur SER/Place Publique de Paris
+2025-11-18,7h40,TF1,Jean-Michel Richard,président des Restos du cœur
+2025-11-18,7h40,RTL,Fabien Roussel,secrétaire national du Parti Communiste
+2025-11-18,7h40,RMC,Emmanuelle Wargon,présidente de la Commission de régulation de l’énergie
+2025-11-18,7h45,Radio J,Laurent Saint Martin,ancien ministre du Budget
+2025-11-18,7h50,France Inter,Catherine Vautrin,ministre des Armées et des Anciens combattants
+2025-11-18,8h00,Public Sénat,Jean-Michel Blanquer,"ancien ministre de l’Education nationale, auteur de Civilisation française"
+2025-11-18,8h10,Europe 1/CNEWS,Sarah Knafo,députée européenne Reconquête
+2025-11-18,8h10,France 2,Jean-Noël Barrot,ministre des Affaires étrangères
+2025-11-18,8h15,Radio Classique,Guillaume Grallet,"journaliste spécialiste de l’IA, auteur de Pionniers, voyage aux frontières de l’intelligence artificielle"
+2025-11-18,8h15,Sud Radio,Guillaume Kasbarian,député EPR d’Eure-et-Loir
+2025-11-18,8h20,France Inter,Ken Follett,"romancier, auteur de Le cercle des jours"
+2025-11-18,8h30,Franceinfo,Sébastien Chenu,député RN du Nord
+2025-11-18,8h30,BFMTV/RMC,David Lisnard,maire LR de Cannes et président de l’Association des maires de France
+2025-11-17,7h15,France 2,Frédéric Dabi,"directeur de l’Ifop, coauteur de L’écharpe et les tempêtes : Face aux maires, la défiance inattendue ?"
+2025-11-17,7h20,RFI,Lesia Vasylenko,députée ukrainienne
+2025-11-17,7h30,Public Sénat,Audrey Belim,sénatrice PS de La Réunion
+2025-11-17,7h40,TF1,Roland Lescure,"ministre de l’Economie, des Finances et de la Souveraineté industrielle, énergétique et numérique"
+2025-11-17,7h40,RTL,Stéphanie Rist,ministre de la Santé
+2025-11-17,7h45,Franceinfo,Nathalie Loiseau,députée européenne Horizons
+2025-11-17,7h45,Radio J,Astrid Panosyan-Bouvet,députée Renaissance de Paris
+2025-11-17,7h50,France Inter,Nicolas Bessone,procureur de la République de Marseille
+2025-11-17,8h00,Public Sénat,David Lisnard,"maire LR de Cannes, président de l’Association des Maires de France"
+2025-11-17,8h10,Europe 1/CNEWS,Jean-Philippe Tanguy,député RN de la Somme
+2025-11-17,8h10,France 2,Eric Zemmour,président de Reconquête
+2025-11-17,8h15,Radio Classique,Pierre Moscovici,président de la Cour des comptes
+2025-11-17,8h15,Sud Radio,Sandrine Rousseau,députée Ecologiste de Paris
+2025-11-17,8h20,France Inter,François Hollande,député PS de Corrèze
+2025-11-17,8h30,Franceinfo,Michel Barnier,député DR de Paris
+2025-11-14,7h15,France 2,Vincent Chabault,sociologue et auteur de L’éloge du magasin
+2025-11-14,7h20,RFI,David Cavaillolès,président exécutif d’Arianespace
+2025-11-14,7h30,Public Sénat,Raphaël Daubet,sénateur RDSE du Lot
+2025-11-14,7h40,TF1,Laure Lavalette,porte-parole du RN
+2025-11-14,7h40,RTL,François Marciano,directeur général de la Scop Duralex
+2025-11-14,7h40,RMC,Frédéric Ploquin,"journaliste spécialiste du grand banditisme, coauteur du livre Insécurité : stop à la descente aux enfers"
+2025-11-14,7h45,Franceinfo,Léon Deffontaines,candidat PCF aux élections municipales à Amiens
+2025-11-14,8h00,Public Sénat,François Sauvadet,"président du département de la Côte-d’Or, président de l’Assemblée des départements de France"
+2025-11-14,8h10,Europe 1/CNEWS,Charles Rodwell,député EPR des Yvelines
+2025-11-14,8h10,France 2,Benjamin Haddad,ministre délégué chargé de l’Europe
+2025-11-14,8h15,Radio Classique,Jean-Luc Barré,"directeur de la collection “Bouquins” chez Robert Laffont, auteur de De Gaulle, une vie (tome 2) : le premier des Français"
+2025-11-14,8h15,Sud Radio,Stéphanie Rist,"ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées"
+2025-11-14,8h15,Public Sénat,Stéphane Troussel,président PS de la Seine-Saint-Denis
+2025-11-14,8h15,Public Sénat,Nicolas Lacroix,président LR du conseil départemental de la Haute-Marne
+2025-11-14,8h20,France Inter,Tony Estanguet,"président du comité d’organisation des Jeux olympiques et paralympiques Paris 2024, auteur de Par amour du sport"
+2025-11-14,8h30,Franceinfo,Mathieu Lefèvre,ministre délégué chargé de la Transition écologique
+2025-11-14,8h30,BFMTV/RMC,Jean-Philippe Tanguy,député RN de la Somme
+2025-11-13,7h15,France 2,Denis Peschanski,"historien, directeur de recherche au CNRS"
+2025-11-13,7h30,Public Sénat,Rémi Féraud,sénateur PS de Paris
+2025-11-13,7h40,TF1,Manuel Valls,ancien Premier ministre
+2025-11-13,7h40,RTL,Anne Hidalgo,maire de Paris
+2025-11-13,7h40,RMC,Arthur Dénouveaux,"rescapé du Bataclan, président de “Life for Paris”, auteur de Vivre après le Bataclan"
+2025-11-13,7h40,France 2,Gaëlle Messager,blessée au Bataclan
+2025-11-13,7h40,France 2,Sandrine Larremendy,psychologue et accompagnatrice de la BRI
+2025-11-13,7h45,Franceinfo,Julien Odoul,porte-parole du RN
+2025-11-13,7h45,Radio J,Marc Fesneau,président du groupe MoDem à l’Assemblée
+2025-11-13,7h50,France Inter,Antoine Gallimard,PDG du groupe Madrigall
+2025-11-13,7h50,France Inter,Kamel Daoud,écrivain
+2025-11-13,7h50,France 2,Thierry Reboul,directeur artistique des cérémonies de commémoration du 13 novembre 2015
+2025-11-13,8h10,Europe 1/CNEWS,Robert Ménard,maire DVD de Béziers
+2025-11-13,8h10,France 2,Philippe Juvin,député LR des Hauts-de-Seine
+2025-11-13,8h15,Radio Classique,Jean-François Ricard,"premier procureur de la République au Parquet national antiterroriste, coauteur de Terrorisme"
+2025-11-13,8h15,Sud Radio,Boris Vallaud,président du groupe Socialiste à l’Assemblée nationale
+2025-11-13,8h20,France Inter,Camille Hennetier,avocate générale durant le procès du 13 novembre
+2025-11-13,8h20,France Inter,Arthur Dénouveaux,"président de “Life for Paris”, auteur de Vivre après le Bataclan"
+2025-11-13,8h20,France Inter,Christophe Molmy,ancien chef de la BRI de Paris
+2025-11-13,8h20,RFI,François Molins,ancien procureur de Paris
+2025-11-13,8h30,Franceinfo,Bernard Cazeneuve,ancien Premier ministre
+2025-11-13,8h30,BFMTV/RMC,Laurent Nuñez,ministre de l’Intérieur
+2025-11-12,7h15,France 2,Yves Lévi,professeur en santé publique et auteur de “Tout savoir sur l’eau du robinet” CNRS éditions
+2025-11-12,7h20,RFI,Volker Türk,haut-commissaire de l’ONU aux droits de l’Homme
+2025-11-12,7h30,Public Sénat,Isabelle Florennes,sénatrice UC des Hauts-de-Seine
+2025-11-12,7h40,TF1,François Villeroy de Galhau,gouverneur de la Banque de France
+2025-11-12,7h40,RTL,Marine Le Pen,présidente du groupe RN à l’Assemblée nationale
+2025-11-12,7h40,RMC,David Amiel,ministre délégué chargé de la Fonction publique
+2025-11-12,7h45,Radio J,François Sauvadet,"président de l’Assemblée des départements de France, président du conseil départemental de Côte d’Or"
+2025-11-12,7h50,France Inter,Eric Neuhoff,"critique de cinéma, écrivain, élu à l’Académie française"
+2025-11-12,8h00,Public Sénat,François Molins,ancien procureur et auteur de Pratique judiciaire du contre-terrorisme
+2025-11-12,8h10,Europe 1/CNEWS,Marion Maréchal,présidente du mouvement Identité Liberté
+2025-11-12,8h10,France 2,Jean-Pierre Farandou,ministre du Travail et des Solidarités
+2025-11-12,8h15,Radio Classique,Jean-Xavier de Lestrade,"documentariste, réalisateur"
+2025-11-12,8h15,Sud Radio,Laurent Panifous,ministre délégué chargé des Relations avec le Parlement
+2025-11-12,8h20,France Inter,Agnès Buzyn,"ancienne ministre de la Santé, auteure de Demain, notre santé"
+2025-11-12,8h20,France Inter,Agnès Giannotti,"médecin généraliste, présidente de MG France"
+2025-11-12,8h30,Franceinfo,Céline Berthon,directrice générale de la Sécurité intérieure
+2025-11-11,7h15,France 2,Laurent Romejko,journaliste et auteur de Quand le ciel fait des histoires (Plon)
+2025-11-11,7h20,RFI,Constantin Sigov,philosophe ukrainien et auteur de Musiques en résistance (A l’Est de Brest-Litovsk)
+2025-11-11,7h40,TF1,Nicolas Dupont-Aignan,président de Debout la France
+2025-11-11,7h40,RTL,Thierry Breton,ancien commissaire européen au Marché intérieur
+2025-11-11,7h40,RMC,MeAntoine Régley,"avocat des parents de Mathis, et un ami"
+2025-11-11,7h45,Franceinfo,Florian Philippot,président des Patriotes
+2025-11-11,7h45,Radio J,Gilles Boyer,député européen Renew
+2025-11-11,7h50,France Inter,Christine Angot,écrivaine
+2025-11-11,8h10,Europe 1/CNEWS,Catherine Vautrin,ministre des Armées et des Anciens combattants de France
+2025-11-11,8h10,France 2,Pierre-Yves Bournazel,"conseiller de Paris, candidat Horizons et Renaissance aux municipales à Paris"
+2025-11-11,8h15,Radio Classique,Guillaume Piketty,"historien, auteur de Sortir de la guerre — des guerres de religions aux conflits asymétriques (Passés composés)"
+2025-11-11,8h15,Sud Radio,Jean-Michel Blanquer,ancien ministre de l’Education nationale et auteur de Civilisation française (Albin Michel)
+2025-11-11,8h20,France Inter,Olivier Wieviorka,"historien, codirecteur de Les lieux mondiaux de l’histoire de France (Perrin), et Marie-Bénédicte Vincent, historienne, spécialiste de l’Allemagne au XXe, auteure du chapitre “Baden-Baden” dans le même ouvrage"
+2025-11-11,8h30,Franceinfo,Pierre Moscovici,premier président de la Cour des comptes
+2025-11-11,8h30,BFMTV/RMC,Jean-Hervé Lorenzi,fondateur du Cercle des économistes et président des Rencontres économiques d’Aix-en-Provence
+2025-11-10,7h15,France 2,Frédéric Encel,géopolitologue
+2025-11-10,7h20,RFI,Arthur Dénouveaux,"président de l’association Life for Paris, auteur de Vivre après le Bataclan (éd. du Cerf)"
+2025-11-10,7h40,TF1,Ségolène Royal,"ancienne ministre, auteure de Qui va garder les enfants ? (éd. Fayard)"
+2025-11-10,7h40,RTL,Céline Berthon,directrice générale de la sécurité intérieure
+2025-11-10,7h45,Franceinfo,Sylvain Maillard,député EPR de Paris
+2025-11-10,7h45,Radio J,Agnès Evren,"sénatrice de Paris, vice-présidente de LR et présidente des Républicains à Paris"
+2025-11-10,7h50,France Inter,Haaaroun,humoriste
+2025-11-10,8h10,Europe 1/CNEWS,Gilles Kepel,"professeur des Universités, spécialiste du monde arabe"
+2025-11-10,8h10,France 2,Xavier Bertrand,président de la région Haut-de-France
+2025-11-10,8h15,Radio Classique,Jean-Michel Blanquer,ancien ministre de l’Education nationale
+2025-11-10,8h15,Sud Radio,Nicolas Forissier,ministre délégué chargé du Commerce extérieur et de l’Attractivité
+2025-11-10,8h20,France Inter,Nicolas Lerner,directeur général de la DGSE
+2025-11-10,8h30,Franceinfo,Roland Lescure,ministre de l’Economie et des Finances
+2025-11-07,7h15,France 2,Valérie Gruau,experte de l’emploi des seniors et fondatrice du site Seniors à votre service
+2025-11-07,7h20,RFI,Sana,
+2025-11-07,7h20,RFI,Gaële Joly,autrices d’En Quête de liberté : Comment je me suis sortie de l’enfer de Daesh
+2025-11-07,7h30,Public Sénat,Sophie Briante Guillemont,sénatrice RDSE des Français établis hors de France
+2025-11-07,7h40,TF1,Nicolas Dufourcq,directeur général de la BPI
+2025-11-07,7h40,RTL,Bernard Cazeneuve,ancien Premier ministre
+2025-11-07,7h40,RMC,Daniel Zagury,expert psychiatre
+2025-11-07,7h45,Franceinfo,Stéphanie Rist,"ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées"
+2025-11-07,8h00,Public Sénat,François-Xavier Ménage,grand reporter
+2025-11-07,8h10,Europe 1/CNEWS,Manon Aubry,députée européenne LFI
+2025-11-07,8h10,France 2,David Amiel,ministre de la Fonction publique
+2025-11-07,8h15,Radio Classique,Thibault de Montbrial,avocat
+2025-11-07,8h15,Sud Radio,Marion Maréchal,députée européenne Reconquête
+2025-11-07,8h20,France Inter,Gilles Finchelstein,"secrétaire général de la Fondation Jean-Jaurès, auteur de La démocratie à l’état gazeux"
+2025-11-07,8h30,Franceinfo,Amélie de Montchalin,ministre chargée des Comptes publics
+2025-11-07,8h30,BFMTV/RMC,Serge Papin,"ministre des PME, du Commerce, de l’Artisanat, du Tourisme et du Pouvoir d’achat"
+2025-11-06,7h10,RMC,Sébastien Martin,ministre de l’Industrie
+2025-11-06,7h15,France 2,Jérémy Roubin,secrétaire général de l’Agence française de lutte contre le dopage
+2025-11-06,7h20,RFI,Féris Barkat,cofondateur de l’association Banlieues Climat
+2025-11-06,7h30,Public Sénat,Olivier Cadic,sénateur centriste des Français établis hors de France
+2025-11-06,7h40,TF1,Sophie Binet,secrétaire générale de la CGT
+2025-11-06,7h40,RTL,Marine Tondelier,secrétaire nationale des Ecologistes
+2025-11-06,7h40,RMC,Daniel Baal,président de la Fédération bancaire française et président du Crédit Mutuel
+2025-11-06,7h45,Franceinfo,Laurent Panifous,ministre délégué chargé des Relations avec le Parlement
+2025-11-06,7h45,Radio J,Eric Revel,"journaliste, auteur de C’est Mozart qu’on assassine : les fiascos de la décennie Macron (Ellipses)"
+2025-11-06,7h50,France Inter,Laurent Nuñez,ministre de l’Intérieur
+2025-11-06,8h00,Public Sénat,Carole Delga,"présidente PS de la région Occitanie, présidente de Régions de France"
+2025-11-06,8h10,Europe 1/CNEWS,Gérard Larcher,président LR du Sénat
+2025-11-06,8h10,France 2,Mathilde Panot,présidente du groupe LFI à l’Assemblée nationale
+2025-11-06,8h15,Radio Classique,Françoise Melonio,"historienne, professeure de littérature"
+2025-11-06,8h15,Sud Radio,Thibault de Montbrial,avocat
+2025-11-06,8h20,France Inter,Dominique Schelcher,PDG de Coopérative U
+2025-11-06,8h30,Franceinfo,Jean-Noël Barrot,ministre de l’Europe et des Affaires étrangères
+2025-11-06,8h30,BFMTV/RMC,Xavier Bertrand,président LR de la région Hauts-de-France
+2025-11-05,7h15,France 2,Corentin Sellin,"professeur agrégé d’histoire, spécialiste des Etats-Unis"
+2025-11-05,7h20,RFI,Eddy L. Harris,"essayiste et documentariste, auteur de Confession américaine (Ed. Liana Levi)"
+2025-11-05,7h30,Public Sénat,Marc-Philippe Daubresse,sénateur LR du Nord
+2025-11-05,7h40,TF1,Vincent Jeanbrun,ministre de la Ville et du Logement
+2025-11-05,7h40,RTL,Jean-Noël Barrot,ministre de l’Europe et des Affaires étrangères
+2025-11-05,7h40,RMC,Marylise Léon,secrétaire générale de la CFDT
+2025-11-05,7h45,Franceinfo,Jean-Philippe Tanguy,député RN de la Somme
+2025-11-05,7h45,Radio J,Jean-Marie Le Guen,ancien ministre
+2025-11-05,7h50,France Inter,Pierre Cochard,ambassadeur de France en Iran
+2025-11-05,8h00,Public Sénat,Sébastien Martin,ministre délégué chargé de l’Industrie
+2025-11-05,8h10,Europe 1/CNEWS,Maud Bregeon,porte-parole du gouvernement
+2025-11-05,8h10,France 2,Jean-François Copé,maire LR de Meaux
+2025-11-05,8h15,Radio Classique,Kamel Daoud,romancier et journaliste
+2025-11-05,8h15,Sud Radio,Rachida Dati,ministre de la Culture
+2025-11-05,8h20,France Inter,Laurent Mauvignier,lauréat du prix Goncourt 2025
+2025-11-05,8h30,Franceinfo,Pascal Demurger,directeur général de la MAIF
+2025-11-05,8h30,BFMTV/RMC,Frédéric Merlin,"président de la Société des grands magasins, propriétaire du BHV Marais"
+2025-11-04,7h15,France 2,Laurent Karila,psychiatre et addictologue
+2025-11-04,7h20,RFI,Benjamin Brière,ancien otage en Iran et auteur de Azadi – 1079 jours otage en République islamique d’Iran (Robert Laffont)
+2025-11-04,7h30,Public Sénat,Nathalie Goulet,sénatrice UC de l’Orne
+2025-11-04,7h35,TF1,Sébastien Chenu,député RN du Nord
+2025-11-04,7h40,RTL,Arnaud Chiche,médecin anesthésiste réanimateur et fondateur du Collectif Santé en Danger
+2025-11-04,7h40,RMC,Quentin Ruffat,porte-parole du Shein en France
+2025-11-04,7h45,Radio J,Juliette Méadel,ancienne ministre chargée de la Ville
+2025-11-04,7h50,France Inter,Jean-Pierre Farandou,ministre du Travail et des Solidarités
+2025-11-04,8h00,Public Sénat,François-Xavier Bellamy,député européen LR
+2025-11-04,8h10,Europe 1/CNEWS,Philippe Juvin,rapporteur général LR du budget à l’Assemblée nationale
+2025-11-04,8h10,France 2,Stéphanie Rist,"ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées"
+2025-11-04,8h15,Radio Classique,Stephen Smith,"journaliste d’investigation, spécialiste de l’Afrique"
+2025-11-04,8h15,Sud Radio,Patrick Kanner,président du groupe SER au Sénat
+2025-11-04,8h20,France Inter,Brice Teinturier,directeur général délégué d’Ipsos BVA. Auteur de Au-delà des apparences – des raisons d’être optimiste en France
+2025-11-04,8h30,Franceinfo,Manuel Bompard,coordinateur national de La France insoumise
+2025-11-04,8h30,BFMTV/RMC,Gilles Kepel,spécialiste du Moyen-Orient
+2025-11-03,7h15,France 2,Jean-Xavier de Lestrade,réalisateur de la série “Des vivants”
+2025-11-03,7h20,RFI,María Fernanda Espinosa,directrice de GWL voices
+2025-11-03,7h30,Public Sénat,Christine Lavarde,sénatrice LR des Hauts-de-Seine
+2025-11-03,7h40,TF1,Edouard Geffray,ministre de l’Education nationale
+2025-11-03,7h40,RTL,Amélie de Montchalin,ministre des Comptes publics
+2025-11-03,7h45,Franceinfo,Manon Aubry,députée européenne LFI
+2025-11-03,7h45,Radio J,Philippe Brun,député PS de l’Eure
+2025-11-03,7h50,France Inter,Olivier Christen,procureur national antiterroriste
+2025-11-03,8h00,Public Sénat,Eric Coquerel,président LFI de la commission des Finances de l’Assemblée nationale
+2025-11-03,8h10,Europe 1/CNEWS,Xavier Driencourt,"ancien ambassadeur de France à Alger, auteur de France Algérie le double aveuglement"
+2025-11-03,8h10,France 2,Yannick Jadot,sénateur Ecologiste de Paris
+2025-11-03,8h15,Radio Classique,Thierry Breton,ancien commissaire européen
+2025-11-03,8h15,Sud Radio,Eric Zemmour,président de Reconquête
+2025-11-03,8h20,France Inter,Olivier Faure,premier secrétaire du PS
+2025-11-03,8h30,Franceinfo,Philippe Aghion,"prix Nobel d’économie 2025, professeur au Collège de France"
+2025-11-03,8h30,BFMTV/RMC,Roland Lescure,ministre de l’Economie
+2025-10-31,7h10,RMC,Stéphanie Rist,"ministre de la Santé, des Familles, de l’Autonomie et des Personnes handicapées"
+2025-10-31,7h15,France 2,Emmanuel Clavaud,chef d’état-major de la sécurité civile
+2025-10-31,7h20,RFI,Yero Sarr,militant pour la justice climatique et co-fondateur de Friday for future au Sénégal
+2025-10-31,7h30,Public Sénat,Véronique Guillotin,sénatrice RDSE de la Meurthe-et-Moselle
+2025-10-31,7h40,TF1,Laure Lavalette,porte-parole du RN
+2025-10-31,7h40,RTL,Jordan Bardella,président du RN
+2025-10-31,7h40,RMC,Philippe Véran,cofondateur et président de Biotech Dental
+2025-10-31,7h45,Franceinfo,Alexis Corbière,député apparenté Ecologiste de la Seine-Saint-Denis
+2025-10-31,8h00,Public Sénat,Franz-Olivier Giesbert,éditorialiste
+2025-10-31,8h10,Europe 1/CNEWS,Jean-Philippe Tanguy,député RN de la Somme
+2025-10-31,8h10,France 2,Ian Brossat,candidat PCF aux municipales à Paris
+2025-10-31,8h15,Radio Classique,Nicolas Dufourcq,directeur général de BPIFrance
+2025-10-31,8h15,Sud Radio,Pierre-Yves Bournazel,candidat Horizons à la mairie de Paris
+2025-10-31,8h20,France Inter,Elise Le Bivic,réalisatrice du documentaire Boire
+2025-10-31,8h20,France Inter,Marion Acquier,psychologue addictologue
+2025-10-31,8h30,Franceinfo,Gabriel Zucman,économiste
+2025-10-31,8h30,BFMTV/RMC,Olivier Faure,premier secrétaire du PS
